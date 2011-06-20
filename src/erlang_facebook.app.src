@@ -1,0 +1,4 @@
+{application, erlang_facebook, 
+[{vsn, "0.3"},
+ {modules, [erlang_facebook]}]
+}.
